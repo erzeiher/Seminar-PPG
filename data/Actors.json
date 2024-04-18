@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Rangga","characterIndex":0,"characterName":"Rangga","classId":3,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Rangga","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rangga","nickname":"Rangga","note":"","profile":"Seorang kepala serikat dagang Arta. Seorang pria pekerja keras yang menjalankan bisnis di bidang kebutuhan pokok. Saat perusahaannya sudah besar dia mendirikan serikat dagang yang mewadahi dan menyuplai anggota pedagangnya dengan bahan kebutuhan pokok di kerajaan singosari."},
+{"id":2,"battlerName":"Ageng","characterIndex":1,"characterName":"Rangga","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Rangga","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ageng","nickname":"Ageng","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":3,"characterName":"Rangga","classId":6,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Rangga","traits":[],"initialLevel":99,"maxLevel":99,"name":"Raja Ken Arok","nickname":"Ken Arok","note":"","profile":"Seorang Raja yang mencapai takhtanya \ndari jalur pendekar."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"People3","traits":[],"initialLevel":99,"maxLevel":99,"name":"Perdana Mentri","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"prajurit","characterIndex":2,"characterName":"Rangga","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Rangga","traits":[],"initialLevel":1,"maxLevel":99,"name":"Prajurit","nickname":"","note":"","profile":""}
+]
